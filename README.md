@@ -1,4 +1,4 @@
-# m64ds-decomp
+# sm64ds-decomp
 A decompilation of Super Mario 64 DS
 
 It will build the following ROMs:
