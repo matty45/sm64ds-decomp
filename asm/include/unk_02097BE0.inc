@@ -1,0 +1,14 @@
+#include <nitro/fs/overlay.h>
+#pragma once
+.public AllocFromHeapAtEnd
+.public FreeToHeap
+.public GF_AssertFail
+.public sub_0203FCB8
+.public TaskManager_Call
+.public FieldSystem_ApplicationIsRunning
+.public TaskManager_GetFieldSystem
+.public TaskManager_GetEnvironment
+.public sub_0205525C
+.public CallTask_RestoreOverworld
+.public Field_GetTimeOfDay
+.public sub_02097BE0
